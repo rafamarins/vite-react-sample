@@ -1,0 +1,8 @@
+{
+    "map": true,
+    "plugins": {
+        "postcss-normalize": {},
+        "postcss-inline-svg": { "paths": ["./src/assets"] },
+        "autoprefixer": {}
+    }
+}
